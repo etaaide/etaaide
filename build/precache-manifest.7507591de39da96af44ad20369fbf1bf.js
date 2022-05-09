@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "54c8978317fe65f77f3d2f4480dad76e",
+    "revision": "70c73bcf6d18f27d991f57376763eca9",
     "url": "/etaaide/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/etaaide/static/css/2.66f9e08a.chunk.css"
   },
   {
-    "revision": "30ffd497a7f686862912",
+    "revision": "c3ad881dc98a00d36c73",
     "url": "/etaaide/static/css/main.d7c84051.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/etaaide/static/js/2.fb5ec2b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "30ffd497a7f686862912",
-    "url": "/etaaide/static/js/main.a8eaab40.chunk.js"
+    "revision": "c3ad881dc98a00d36c73",
+    "url": "/etaaide/static/js/main.9fe7d95b.chunk.js"
   },
   {
     "revision": "50d58e3afd7052d37838",
